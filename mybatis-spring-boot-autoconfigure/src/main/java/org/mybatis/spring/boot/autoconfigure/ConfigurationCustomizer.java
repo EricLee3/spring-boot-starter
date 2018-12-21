@@ -31,4 +31,5 @@ public interface ConfigurationCustomizer {
    */
   void customize(Configuration configuration);
   // sample and test comment for jenkins build
+  // also sample ... 
 }
