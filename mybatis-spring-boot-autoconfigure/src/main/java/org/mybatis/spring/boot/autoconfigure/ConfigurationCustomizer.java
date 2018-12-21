@@ -30,5 +30,5 @@ public interface ConfigurationCustomizer {
    * @param configuration the configuration object to customize
    */
   void customize(Configuration configuration);
-
+  // sample and test comment for jenkins build
 }
